@@ -1,5 +1,5 @@
 # iPhoneCalculatorClone
-A slightly less-functional, unimaginatively named, clone of the calculator included in iOS.  
+A slightly less functional, unimaginatively-named clone of the calculator included in iOS.  
 
 Demonstrates application of basic interface design concepts in Xcode, including adaptive layout.
 
